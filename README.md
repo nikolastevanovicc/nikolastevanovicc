@@ -10,6 +10,7 @@ I’m particularly interested in understanding how systems work internally — f
 - Python
 - C++
 - TypeScript
+- JavaScript
 
 **Backend & Systems**
 - Spring Boot (JWT authentication, layered architecture, testing)
